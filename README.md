@@ -2,6 +2,11 @@
 
 Ini adalah aplikasi konsol (command-line) sederhana yang ditulis dalam bahasa Java. Aplikasi ini berfungsi untuk mengkonversi suhu dari Celsius ke Fahrenheit.
 
+##  Teknologi yang Digunakan
+* **Bahasa:** Java (JDK)
+* **IDE:** IntelliJ IDEA
+* **Version Control:** Git & GitHub
+
 ## Fitur
 
 * Menerima input suhu dalam format Celsius dari pengguna.
