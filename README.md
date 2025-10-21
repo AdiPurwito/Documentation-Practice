@@ -23,7 +23,7 @@ Proyek ini dibagi menjadi dua kelas utama untuk memisahkan tanggung jawab (Separ
 * **`Main.java`**: Berisi *entry point* (method `main`) aplikasi. Kelas ini bertanggung jawab untuk berinteraksi dengan pengguna (menerima input dan menampilkan output).
 * **`KalkulatorSuhu.java`**: Kelas ini menyimpan *business logic* (logika bisnis) dari aplikasi. Bertanggung jawab penuh untuk melakukan perhitungan konversi suhu.
 
-## Catatan Refactoring
+## Catatan
 
 Struktur kode ini adalah hasil dari beberapa teknik *refactoring* untuk meningkatkan kualitas kode:
 
