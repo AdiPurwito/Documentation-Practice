@@ -1,6 +1,6 @@
 # Kalkulator Konversi Suhu 
 
-Ini adalah aplikasi konsol (command-line) sederhana yang ditulis dalam bahasa Java. Aplikasi ini berfungsi untuk mengkonversi suhu dari Celsius ke Fahrenheit.
+**Ini adalah aplikasi konsol (command-line) sederhana yang ditulis dalam bahasa Java. Aplikasi ini berfungsi untuk mengkonversi suhu dari Celsius ke Fahrenheit.**
 
 ## ⚙️ Teknologi yang Digunakan
 * **Bahasa:** Java (JDK)
@@ -23,7 +23,7 @@ Anda dapat menjalankan program ini dari IDE:
 1.  Pastikan kedua kelas (`Main` dan `KalkulatorSuhu`) berada dalam *package source* yang sama.
 2.  Klik kanan pada file `Main.java` atau di dalam editornya.
 3.  Pilih "Run 'Main.main()'".
-4.  Input akan diminta di panel "Run" di bagian bawah.
+4.  Input suhu akan diminta di panel "Run" di bagian bawah, dan hasilnya akan merubah suhu dari `celsius` ke `Farenheit`.
 
 ## Struktur Proyek
 
