@@ -1,4 +1,4 @@
-# Kalkulator Konversi Suhu
+# Kalkulator Konversi Suhu 
 
 Ini adalah aplikasi konsol (command-line) sederhana yang ditulis dalam bahasa Java. Aplikasi ini berfungsi untuk mengkonversi suhu dari Celsius ke Fahrenheit.
 
@@ -7,7 +7,7 @@ Ini adalah aplikasi konsol (command-line) sederhana yang ditulis dalam bahasa Ja
 * **IDE:** IntelliJ IDEA
 * **Version Control:** Git & GitHub
 
-# ⌨️ ShortcutAuto
+## ⌨️ ShortcutAuto
     psvm (atau `main`): Mengetik `psvm` lalu `Tab` untuk secara otomatis membuat method `public static void main(String[] args)`.
     sout: Mengetik `sout` lalu `Tab` untuk secara otomatis membuat `System.out.println()`.
 
